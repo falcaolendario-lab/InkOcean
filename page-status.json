@@ -15,10 +15,13 @@
       "number": 1,
       "slug": "capa",
       "title": "Capa",
-      "revision": 0,
-      "status": "PLANEJADA",
-      "approved_by": null,
-      "notes": "Em desenvolvimento na bancada local. Somente a versão aprovada será adicionada ao repositório e ao site."
+      "revision": 1,
+      "status": "PUBLICADA",
+      "approved_by": "Kili",
+      "notes": "Capa aprovada por Kili e publicada como Página 1.",
+      "approved_at": "2026-09-05",
+      "file": "pages/approved/p001-capa.webp",
+      "site_url": "https://ink-ocean.falcaolendario.chatgpt.site"
     },
     {
       "number": 2,
