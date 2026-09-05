@@ -1,0 +1,44 @@
+{
+  "project": "InkOcean",
+  "format": {
+    "page": "A4",
+    "orientation": "portrait",
+    "bleed_mm": 3
+  },
+  "status_values": [
+    "PLANEJADA",
+    "RASCUNHO",
+    "REVISAO",
+    "APROVADA",
+    "PUBLICADA"
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "slug": "capa",
+      "title": "Capa",
+      "revision": 0,
+      "status": "PLANEJADA",
+      "approved_by": null,
+      "notes": ""
+    },
+    {
+      "number": 2,
+      "slug": "folha-de-rosto",
+      "title": "Folha de rosto",
+      "revision": 0,
+      "status": "PLANEJADA",
+      "approved_by": null,
+      "notes": ""
+    },
+    {
+      "number": 3,
+      "slug": "abertura",
+      "title": "Abertura narrada",
+      "revision": 0,
+      "status": "PLANEJADA",
+      "approved_by": null,
+      "notes": ""
+    }
+  ]
+}
