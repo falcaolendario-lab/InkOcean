@@ -15,20 +15,19 @@ Ink Ocean é uma fantasia sombria, surreal e épica ambientada em um mundo no qu
 - O livro não utilizará uma sucessão de caixas retangulares genéricas.
 - Texto, ilustração, ornamentação e regras serão concebidos juntos.
 - Cada página será revisada individualmente por Kili.
-- Somente páginas explicitamente aprovadas entram na versão oficial e no site.
+- Somente páginas explicitamente aprovadas entram no repositório como páginas oficiais e são incorporadas ao site.
 - A campanha deve permitir exploração, aventuras, profissões e também a escolha de permanecer em um lugar e construir uma vida.
 
 ## Estrutura do repositório
 
 - `docs/`: cânone, direção visual e planejamento editorial.
-- `pages/drafts/`: páginas em desenvolvimento.
-- `pages/approved/`: páginas aprovadas.
-- `assets/`: ilustrações, texturas, ornamentos, fontes e referências autorizadas.
+- `pages/approved/`: páginas finais aprovadas.
+- `assets/`: ilustrações, texturas, ornamentos, fontes e recursos autorizados.
 - `site/`: versão pública do livro.
-- `page-status.json`: registro do estado de cada página.
+- `page-status.json`: registro das páginas planejadas, aprovadas e publicadas.
 
 ## Fluxo de aprovação
 
-`rascunho → revisão → aprovado → publicado`
+`produção local → apresentação a Kili → aprovação explícita → repositório e site`
 
-Nenhuma página é marcada como aprovada ou publicada sem confirmação explícita de Kili.
+Rascunhos e revisões permanecem fora do repositório público. Nenhuma página é incorporada ao livro ou ao site sem a confirmação explícita de Kili.
