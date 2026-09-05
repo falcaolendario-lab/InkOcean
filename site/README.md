@@ -1,5 +1,14 @@
 # Site de Ink Ocean
 
-Esta pasta receberá a versão pública das páginas aprovadas.
+O site apresenta somente páginas explicitamente aprovadas por Kili.
 
-O site deverá preservar a direção visual do livro, funcionar em computadores e celulares e nunca publicar automaticamente uma página ainda em revisão.
+**Página publicada:** 1 — Capa  
+**Leitura:** [Ink Ocean](https://ink-ocean.falcaolendario.chatgpt.site)
+
+## Arquivos
+
+- `index.html`: leitor atual do livro.
+- `styles.css`: apresentação responsiva.
+- `assets/p001-capa.webp`: capa oficial aprovada.
+
+Rascunhos e revisões de trabalho permanecem fora do repositório público.
