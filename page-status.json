@@ -7,8 +7,6 @@
   },
   "status_values": [
     "PLANEJADA",
-    "RASCUNHO",
-    "REVISAO",
     "APROVADA",
     "PUBLICADA"
   ],
@@ -17,10 +15,10 @@
       "number": 1,
       "slug": "capa",
       "title": "Capa",
-      "revision": 2,
-      "status": "REVISAO",
+      "revision": 0,
+      "status": "PLANEJADA",
       "approved_by": null,
-      "notes": "Segunda composição apresentada em 5 de setembro de 2026. Estilo de anime ilustrado, figura maior e remoção dos olhos anatômicos."
+      "notes": "Em desenvolvimento na bancada local. Somente a versão aprovada será adicionada ao repositório e ao site."
     },
     {
       "number": 2,
