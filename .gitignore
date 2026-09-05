@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.bak
+*.swp
+
+# Renderizações locais intermediárias
+.cache/
+temp/
