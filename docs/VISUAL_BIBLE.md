@@ -23,17 +23,48 @@ Ink Ocean deve parecer um livro mágico encontrado dentro do próprio mundo: bel
 
 ## Traço definitivo dos personagens
 
-A referência visual mais recente fornecida por Kili estabelece o padrão obrigatório para personagens:
+O desenho de personagens combina duas qualidades: a força gráfica das massas de tinta e a precisão delicada da nova referência aprovada por Kili. O resultado deve parecer uma ilustração feita à mão, não uma pintura digital genérica.
 
-- desenho de anime extremamente estilizado, elegante e gráfico;
-- olhos expressivos e simplificados, nunca anatômicos ou fotorrealistas;
-- rosto limpo, com poucos traços precisos;
-- cabelos tratados como grandes massas negras recortadas por mechas soltas;
-- silhuetas fortes e áreas de preto profundo;
-- linhas afiadas, gestuais e aparentemente espontâneas;
-- contraste radical entre preto, branco e espaço negativo;
-- pequenas interferências cromáticas em azul, laranja, vermelho ou outra cor do capítulo;
-- roupas góticas fluidas, com formas que podem se dissolver em tinta.
+### Rosto e expressão
+
+- Proporções de anime elegantes, sem aparência chibi.
+- Olhos estreitos, angulares e muito expressivos.
+- Linha superior dos olhos mais pesada; íris simples e nítida.
+- Nariz e boca construídos com pouquíssimos traços.
+- Emoção concentrada no olhar, na inclinação da cabeça e na postura.
+- Nunca usar olhos anatômicos, fotorrealistas ou excessivamente brilhantes.
+
+### Linha, corpo e gesto
+
+- Linha fina, limpa e precisa, com pequenas variações de pressão.
+- Anatomia alongada e graciosa, preservando naturalidade.
+- Mãos recebem atenção especial e funcionam como parte da atuação do personagem.
+- Pouca sombra no rosto e na pele; volume sugerido por linha e manchas suaves.
+- Cabelos podem ser claros e geométricos ou grandes massas negras, sempre com pontas recortadas e mechas deliberadas.
+- O desenho deve permanecer legível mesmo sem cor.
+
+### Massa, roupa e cor
+
+- Roupas, asas, familiares e acessórios podem formar áreas amplas de preto profundo.
+- Tecidos góticos usam silhuetas fortes antes de detalhes internos.
+- A base é preto-tinta, marfim e tons de papel.
+- Uma cor de acento por personagem ou cena — como vermelho, azul ou laranja — aparece em olhos, sombras, símbolos ou reflexos.
+- A cor funciona como mancha emocional e mágica, não como renderização volumétrica completa.
+- Símbolos sobre pele e roupa devem pertencer ao vocabulário próprio de Ink Ocean; não copiar emblemas das referências.
+
+### Personagem contra cenário
+
+O personagem será normalmente mais limpo e gráfico que o ambiente. O rosto e as mãos parecem desenhados com pena fina; o mundo ao redor permanece pictórico, gótico, turbulento e surreal. Os dois se encontram nas bordas: cabelo, tecido, fumaça, tinta, raízes ou luz podem se dissolver na pintura do cenário.
+
+### Evitar
+
+- acabamento tridimensional ou plástico;
+- pele excessivamente renderizada;
+- olhos redondos e infantis sem necessidade narrativa;
+- brilho genérico de anime digital;
+- linhas tão suaves que apaguem a silhueta;
+- excesso de detalhes internos competindo com o rosto;
+- copiar personagem, roupa, pose ou símbolo específico de uma referência.
 
 Esse traço deve permanecer reconhecível em capas, retratos, criaturas humanoides, páginas narrativas e ilustrações de regras.
 
