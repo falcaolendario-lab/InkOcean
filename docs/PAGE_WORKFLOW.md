@@ -1,53 +1,52 @@
 # Fluxo de Páginas
 
-## Estados
+## Princípio
 
-- PLANEJADA: existe no sumário, mas ainda não foi produzida.
-- RASCUNHO: primeira composição em desenvolvimento.
-- REVISAO: apresentada a Kili e aguardando correções ou decisão.
+O repositório público contém somente planejamento e material oficialmente aprovado. Rascunhos, tentativas e revisões visuais permanecem na bancada local de produção.
+
+## Estados públicos
+
+- PLANEJADA: existe no sumário, mas ainda não foi aprovada.
 - APROVADA: Kili declarou explicitamente que a página passou.
-- PUBLICADA: versão aprovada foi incorporada ao site e à montagem do livro.
+- PUBLICADA: a versão aprovada foi incorporada ao site e à montagem do livro.
+
+Os estados de trabalho RASCUNHO e REVISAO existem apenas durante a produção local e não são registrados no repositório.
 
 ## Regra de aprovação
 
-Somente Kili pode alterar uma página de REVISAO para APROVADA.
+Somente Kili pode aprovar uma página.
 
-Mudanças posteriores numa página aprovada criam uma nova revisão e devolvem seu estado para REVISAO até nova confirmação.
+Quando Kili declarar que uma página passou:
+
+1. a versão aprovada recebe seu número definitivo;
+2. o arquivo final é adicionado a `pages/approved/`;
+3. a página é incorporada ao site;
+4. `page-status.json` é atualizado;
+5. as alterações são enviadas ao repositório.
+
+A ausência de resposta nunca significa aprovação.
+
+## Alterações posteriores
+
+Se uma página já publicada precisar mudar, a versão publicada permanece intacta enquanto a nova revisão é produzida localmente. Ela somente é substituída depois de uma nova aprovação explícita.
 
 ## Identificação
 
-Cada página recebe:
+O arquivo oficial usa o número definitivo, sem número de revisão:
 
-- número;
-- título interno;
-- revisão;
-- estado;
-- data da última mudança;
-- arquivos visuais utilizados;
-- observações de aprovação.
+- `p001-capa.png`
+- `p002-folha-de-rosto.png`
+- `p003-abertura.png`
 
-Padrão sugerido de nome:
+As revisões podem usar sufixos como `-r01`, `-r02` e `-r03` apenas na bancada local.
 
-p001-capa-r01
-p002-folha-de-rosto-r01
-p003-abertura-r01
+## Arquivos públicos
 
-## Arquivos
+- `pages/approved/`: páginas aprovadas.
+- `assets/`: elementos visuais autorizados.
+- `site/`: apresentação pública das páginas aprovadas.
+- `page-status.json`: registro legível por ferramentas e pelo site.
 
-- pages/drafts: versões em produção e revisão.
-- pages/approved: versões aprovadas.
-- assets: elementos visuais de origem.
-- site: apresentação pública das páginas aprovadas.
-- page-status.json: registro legível por ferramentas e pelo site.
+## Apresentação para aprovação
 
-## Formato de revisão
-
-Para cada página, serão apresentados:
-
-1. imagem renderizada completa;
-2. objetivo da página;
-3. texto utilizado;
-4. recursos visuais;
-5. observações técnicas relevantes.
-
-A ausência de resposta não significa aprovação.
+Para cada página em desenvolvimento, Kili recebe a renderização completa e pode solicitar quantas mudanças forem necessárias. O histórico de tentativas não é publicado.
