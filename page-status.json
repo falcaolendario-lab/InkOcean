@@ -15,7 +15,7 @@
       "number": 1,
       "slug": "capa",
       "title": "Capa",
-      "revision": 1,
+      "revision": 3,
       "status": "PUBLICADA",
       "approved_by": "Kili",
       "notes": "Capa aprovada por Kili e publicada como Página 1.",
@@ -25,21 +25,27 @@
     },
     {
       "number": 2,
-      "slug": "folha-de-rosto",
-      "title": "Folha de rosto",
-      "revision": 0,
-      "status": "PLANEJADA",
-      "approved_by": null,
-      "notes": ""
+      "slug": "sinopse",
+      "title": "Sinopse do mundo",
+      "revision": 5,
+      "status": "PUBLICADA",
+      "approved_by": "Kili",
+      "notes": "Sinopse do cenário aprovada por Kili e publicada como Página 2.",
+      "approved_at": "2026-09-06",
+      "file": "pages/approved/p002-sinopse.webp",
+      "site_url": "https://ink-ocean.falcaolendario.chatgpt.site"
     },
     {
       "number": 3,
-      "slug": "abertura",
-      "title": "Abertura narrada",
-      "revision": 0,
-      "status": "PLANEJADA",
-      "approved_by": null,
-      "notes": ""
+      "slug": "conhecendo-o-mundo",
+      "title": "Capítulo I — Conhecendo o Mundo",
+      "revision": 2,
+      "status": "PUBLICADA",
+      "approved_by": "Kili",
+      "notes": "Abertura do Capítulo I aprovada por Kili e publicada como Página 3.",
+      "approved_at": "2026-09-06",
+      "file": "pages/approved/p003-conhecendo-o-mundo.webp",
+      "site_url": "https://ink-ocean.falcaolendario.chatgpt.site"
     }
   ]
 }
